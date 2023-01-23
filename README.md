@@ -1,1 +1,1 @@
-# CSC181-SSIS-WEB-BASED-APP
+A website version of Simple Student Information System 
